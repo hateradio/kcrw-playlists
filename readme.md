@@ -1,5 +1,4 @@
-# Yet Another Various Artists Helper
+# KCRW Playlists
+[kcrw.com/playlists](https://www.kcrw.com/playlists)
 
-- Toggle the category (artist, dj, etc) to see its input box.
-- Type artists, one per line.
-- Watch it auto-fill the various artists inputs below.
+- Add duckduckgo search to tracks
