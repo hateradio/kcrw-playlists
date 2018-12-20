@@ -1,0 +1,29 @@
+{
+  "name": "kcrw-playlists",
+  "version": "3.0.0",
+  "description": "Duck links on playlists",
+  "main": "Gruntfile.js",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hateradio/kcrw-playlists.git"
+  },
+  "keywords": [
+    "ytma",
+    "neogaf"
+  ],
+  "author": "hateradio",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/hateradio/kcrw-playlists/issues"
+  },
+  "homepage": "https://github.com/hateradio/kcrw-playlists#readme"
+}
